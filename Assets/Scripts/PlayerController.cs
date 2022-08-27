@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     // Holds the user horizontal input
     public float horizontalInput;
     // Velcocity of the movement
-    public float speed = 10.0f;
+    public float speed = 11.0f;
     // X boundary for player
     public float xRange = 10.0f;
 
