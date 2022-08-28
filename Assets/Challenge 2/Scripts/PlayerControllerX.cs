@@ -41,6 +41,7 @@ public class PlayerControllerX : MonoBehaviour
     /**
     * Kickstarts after the user spawns a dog.
     * Makes the user wait a specified sec before a new dog can be spawned
+    * Inspiration from here - https://answers.unity.com/questions/1763616/only-able-to-hit-the-z-key-once-every-10-seconds.html
     */
     private IEnumerator SpawnDogRestrictor()
      {
